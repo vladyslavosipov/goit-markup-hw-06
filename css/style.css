@@ -1429,7 +1429,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/fone-hero-desktop.jpg);
+      url(../images/people-office.jpg);
   }
   @media screen and (-webkit-min-device-pixel-ratio: 2),
     (min-resolution: 2dppx),
@@ -1440,7 +1440,7 @@ button {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/fone-hero-desktop-2x.jpg);
+        url(../images/people-office-2x.jpg);
     }
   }
   .title-solutions {
