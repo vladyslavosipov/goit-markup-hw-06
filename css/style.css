@@ -1064,7 +1064,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/fone-hero-tablet.jpeg);
+      url(../images/Dark-bg-tab.jpg);
   }
   @media screen and (-webkit-min-device-pixel-ratio: 2),
     (min-resolution: 2dppx),
@@ -1075,7 +1075,7 @@ button {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/fone-hero-tablet-2x.jpeg);
+        url(../images/Dark-bg-tab-2x.jpg);
     }
   }
   .title-solutions {
